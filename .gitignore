@@ -1,0 +1,14 @@
+*.db
+.*.lock
+images_folder
+.venv
+*.pth
+*.tar.gz
+models/
+adapters/
+*.egg-info
+*.json
+.DS_STORE
+.DS_Store
+__pycache__/
+build
