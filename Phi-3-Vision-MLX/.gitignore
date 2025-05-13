@@ -1,0 +1,7 @@
+models/
+adapters/
+*.egg-info
+*.json
+.DS_STORE
+.DS_Store
+__pycache__/
