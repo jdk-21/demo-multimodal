@@ -9,7 +9,6 @@ dependencies = [
     "ftfy>=6.3.1",
     "ipykernel>=6.29.5",
     "opencv-python>=4.11.0.86",
-    "phi-3-vision-mlx==0.1.5",
     "pymilvus>=2.5.8",
     "regex>=2024.11.6",
     "scipy>=1.15.3",
